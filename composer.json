@@ -1,0 +1,23 @@
+{
+    "name": "bopbituni/tutorial",
+    "description": "demo composer",
+    "type": "library",
+    "require": {
+        "php": ">= 7.4.0"
+    },
+    "require-dev": {
+        "php": ">= 7.4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bopbituni\\Tutorial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thanh",
+            "email": "thanhdd1999@gmail.com"
+        }
+    ]
+}
